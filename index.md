@@ -1,13 +1,13 @@
 # Politique de confidentialité de PERL
 
-**Dernière mise à jour : 6 octobre 2026**
+**Dernière mise à jour : 7 octobre 2026**
 
 La présente politique explique quelles données l'application PERL (« l'app ») collecte, pourquoi, avec qui elles sont partagées et quels sont vos droits.
 
 ## 1. Responsable du traitement
 
-L'app PERL est éditée par Nicolas Beille (Belgique).
-Contact : **perl.project.contact@gmail.com**
+L'app PERL est éditée par **PERL**, société par actions simplifiée (SAS), dont le siège social est situé 42 rue Victorien Sardou, 92500 Rueil-Malmaison, France.
+Contact : **contact@perl-forall.com**
 
 ## 2. Données collectées
 
@@ -20,7 +20,7 @@ Aucune donnée personnelle n'est collectée. L'app récupère uniquement les inf
 | Adresse e-mail | Création du compte, connexion, réinitialisation du mot de passe, e-mail de bienvenue |
 | Identifiant de compte et pseudo | Faire fonctionner votre compte et vous afficher dans le classement communautaire |
 | Avatar choisi (parmi une liste fournie par l'app) | Personnalisation du profil |
-| Pronostics, crédits virtuels, XP, division, favoris, badges et titres | Faire fonctionner les fonctionnalités de l'app (pronostics, progression, classement) |
+| Pronostics, crédits virtuels, XP, division, favoris, badges et titres | Faire fonctionner les fonctionnalités de l'app (pronostics, progression, classement) et produire des statistiques internes sur l'utilisation de l'app |
 | Jeton de notification de l'appareil | Vous envoyer les notifications que vous avez activées (début de match, résultats) |
 
 Si vous vous connectez avec Google, nous recevons uniquement votre adresse e-mail et un identifiant de compte de la part de Google.
@@ -33,7 +33,7 @@ Les crédits utilisés pour les pronostics sont **entièrement virtuels** : ils 
 
 ## 4. Base légale
 
-Les données sont traitées pour l'exécution du service que vous demandez en créant un compte (article 6.1.b du RGPD). Les notifications reposent sur votre consentement, que vous pouvez retirer à tout moment dans les réglages de votre appareil.
+Les données sont traitées pour l'exécution du service que vous demandez en créant un compte (article 6.1.b du RGPD). Les statistiques internes reposent sur notre intérêt légitime à améliorer l'app (article 6.1.f du RGPD). Les notifications reposent sur votre consentement, que vous pouvez retirer à tout moment dans les réglages de votre appareil.
 
 ## 5. Prestataires (sous-traitants)
 
@@ -60,13 +60,13 @@ Vos données sont conservées tant que votre compte existe. Lorsque vous supprim
 
 Vous pouvez supprimer votre compte à tout moment :
 - directement dans l'app : **Réglages → Supprimer mon compte** ;
-- ou en écrivant à **perl.project.contact@gmail.com** depuis l'adresse e-mail liée à votre compte.
+- ou en écrivant à **contact@perl-forall.com** depuis l'adresse e-mail liée à votre compte.
 
 ## 9. Vos droits
 
-Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité de vos données. Pour les exercer, écrivez à **perl.project.contact@gmail.com**. Nous répondons dans un délai d'un mois.
+Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité de vos données. Pour les exercer, écrivez à **contact@perl-forall.com**. Nous répondons dans un délai d'un mois.
 
-Vous pouvez également introduire une réclamation auprès de l'**Autorité de protection des données** (Belgique) : https://www.autoriteprotectiondonnees.be
+Vous pouvez également introduire une réclamation auprès de la **CNIL** (France) : https://www.cnil.fr, ou de l'autorité de protection des données de votre pays de résidence.
 
 ## 10. Âge minimum
 
