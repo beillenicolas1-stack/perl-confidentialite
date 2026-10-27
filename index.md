@@ -1,6 +1,6 @@
 # Politique de confidentialité de PERL
 
-**Dernière mise à jour : 7 octobre 2026**
+**Dernière mise à jour : 27 octobre 2026**
 
 La présente politique explique quelles données l'application PERL (« l'app ») collecte, pourquoi, avec qui elles sont partagées et quels sont vos droits.
 
@@ -21,6 +21,7 @@ Aucune donnée personnelle n'est collectée. L'app récupère uniquement les inf
 | Identifiant de compte et pseudo | Faire fonctionner votre compte et vous afficher dans le classement communautaire |
 | Avatar choisi (parmi une liste fournie par l'app) | Personnalisation du profil |
 | Pronostics, crédits virtuels, XP, division, favoris, badges et titres | Faire fonctionner les fonctionnalités de l'app (pronostics, progression, classement) et produire des statistiques internes sur l'utilisation de l'app |
+| Historique des rediffusions regardées | Indiquer dans l'app les rediffusions déjà vues |
 | Jeton de notification de l'appareil | Vous envoyer les notifications que vous avez activées (début de match, résultats) |
 
 Si vous vous connectez avec Google, nous recevons uniquement votre adresse e-mail et un identifiant de compte de la part de Google.
@@ -56,11 +57,13 @@ Votre pseudo, votre avatar, votre division, votre XP, vos badges et titres sont 
 
 Vos données sont conservées tant que votre compte existe. Lorsque vous supprimez votre compte, vos données personnelles sont supprimées dans un délai maximum de 30 jours.
 
-## 8. Suppression du compte
+## 8. Suppression du compte et des données
 
-Vous pouvez supprimer votre compte à tout moment :
-- directement dans l'app : **Réglages → Supprimer mon compte** ;
-- ou en écrivant à **contact@perl-forall.com** depuis l'adresse e-mail liée à votre compte.
+Vous pouvez supprimer votre compte PERL et toutes les données qui y sont liées à tout moment, que vous utilisiez l'app sur iPhone ou sur Android :
+- **directement dans l'app** : Profil → Réglages → **Supprimer mon compte**, puis confirmez ;
+- **sans l'app** : écrivez à **contact@perl-forall.com** depuis l'adresse e-mail liée à votre compte, avec pour objet « Suppression de compte ». Nous supprimons le compte et vous confirmons la suppression par e-mail dans un délai maximum de 30 jours.
+
+Sont supprimés : votre adresse e-mail, votre identifiant de compte, votre pseudo, votre avatar, vos pronostics, vos crédits virtuels, votre XP, vos favoris, vos badges et titres, votre historique de rediffusions et votre jeton de notification. Aucune de ces données n'est conservée après la suppression.
 
 ## 9. Vos droits
 
@@ -70,7 +73,7 @@ Vous pouvez également introduire une réclamation auprès de la **CNIL** (Franc
 
 ## 10. Âge minimum
 
-L'app n'est pas destinée aux enfants de moins de 13 ans. Nous ne collectons pas sciemment de données concernant des enfants de moins de 13 ans.
+L'app est réservée aux personnes de 16 ans et plus. Nous ne collectons pas sciemment de données concernant des personnes de moins de 16 ans ; si vous pensez qu'un compte appartient à une personne de moins de 16 ans, écrivez à **contact@perl-forall.com** et nous le supprimerons.
 
 ## 11. Sécurité
 
